@@ -108,9 +108,9 @@
 #### Tecnologias Sugeridas
 
 - Linguagem: Python, JavaScript (Node.js), Java, ou qualquer outra linguagem com a qual você queira praticar.
-- Frameworks: Flask ou Django para Python, Express para Node.js, Spring Boot para Java.
+- Frameworks: Flask para Python, NestJS para Node.js, Spring Boot para Java.
 - Banco de Dados: SQLite, PostgreSQL, ou outro de sua preferência.
-- Ferramentas adicionais: Docker (opcional), Postman para testar a API.
+- Ferramentas adicionais: Docker (opcional), Postman ou Apidog para testar a API.
 
 #### Tarefas Extras
 
